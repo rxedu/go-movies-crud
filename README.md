@@ -2,11 +2,9 @@
 
 [![GitHub Actions](https://github.com/rxedu/go-movies-crud/workflows/main/badge.svg)](https://github.com/rxedu/go-movies-crud/actions)
 
-Learning project.
-
 ## Description
 
-TODO
+https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
 
 #### Changelog for this skeleton
 
