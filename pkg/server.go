@@ -12,5 +12,6 @@ func NewServer() *mux.Router {
 	r.HandleFunc("/movies/{id}", internal.GetMovie).Methods("GET")
 	r.HandleFunc("/movies/{id}", internal.UpdateMovie).Methods("PUT")
 	r.HandleFunc("/movies/{id}", internal.DeleteMovie).Methods("DELETE")
+	internal.InitData()
 	return r
 }
