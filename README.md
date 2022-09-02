@@ -4,7 +4,7 @@
 
 ## Description
 
-https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
+[Learn Go Programming by Building 11 Projects by freeCodeCamp.](https://www.freecodecamp.org/news/learn-go-by-building-11-projects/)
 
 ## Installation
 
