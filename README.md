@@ -1,4 +1,4 @@
-# Movies CRUD
+# Go Movies CRUD
 
 [![GitHub Actions](https://github.com/rxedu/go-movies-crud/workflows/main/badge.svg)](https://github.com/rxedu/go-movies-crud/actions)
 
