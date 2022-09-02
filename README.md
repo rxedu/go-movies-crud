@@ -6,14 +6,6 @@
 
 https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
 
-#### Changelog for this skeleton
-
-Note that `CHANGELOG.md` is just a template for this skeleton.
-The actual changes for this project are documented in the commit history
-and summarized under [Releases].
-
-[Releases]: https://github.com/rxedu/go-movies-crud/releases
-
 ## Installation
 
 Simply import this module into your project
