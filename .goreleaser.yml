@@ -9,6 +9,7 @@ signs:
   - artifacts: checksum
 
 builds:
-  - main: cmd/main.go
+  - binary: gomoviescrud
+    main: cmd/gomoviescrud/main.go
     env:
       - CGO_ENABLED=0

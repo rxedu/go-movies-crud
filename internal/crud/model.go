@@ -1,4 +1,4 @@
-package internal
+package crud
 
 type Movie struct {
 	ID       string    `json:"id"`

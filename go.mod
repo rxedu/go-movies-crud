@@ -1,4 +1,4 @@
-module github.com/rxedu/go-movies-crud/v1
+module github.com/rxedu/go-movies-crud
 
 go 1.19
 

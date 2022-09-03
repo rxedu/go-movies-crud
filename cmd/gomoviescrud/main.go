@@ -5,11 +5,11 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/rxedu/go-movies-crud/v1/pkg"
+	"github.com/rxedu/go-movies-crud"
 )
 
 func main() {
-	s := pkg.NewServer()
+	s := gomoviescrud.NewServer()
 	fmt.Printf("Running on http://localhost:8000")
 	log.Fatal(http.ListenAndServe(":8000", s))
 }

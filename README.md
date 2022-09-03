@@ -11,7 +11,7 @@
 Simply import this module into your project
 
 ```go
-import "github.com/makenew/gomodule"
+import "github.com/rxedu/go-movies-crud"
 ```
 
 Then run

@@ -2,7 +2,6 @@ package gomoviescrud
 
 import (
 	"github.com/gorilla/mux"
-
 	"github.com/rxedu/go-movies-crud/internal/crud"
 )
 
